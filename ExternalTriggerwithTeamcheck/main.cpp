@@ -44,7 +44,7 @@ int main() {
 
 
 
-void getClient() {//try hinzufügen, um das automatische Injecten zu ermöglichen
+void getClient() {//try hinzufügen, um das automatische Injecten zu ermöglichen, test
 	cout << "suche Fenster..." << endl;
 	do {
 		GameWindow = FindWindow(NULL, "Counter-Strike: Global Offensive");
