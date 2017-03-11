@@ -1,0 +1,18 @@
+﻿  main.cpp
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(86): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(87): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(92): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(95): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(96): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(140): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPCVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(143): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(145): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(147): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(149): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(151): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(153): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(155): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(161): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+d:\users\rafael\source\repos\123456abcdef\externaltriggerwithteamcheck\main.cpp(164): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+  ExternalTriggerwithTeamcheck.vcxproj -> D:\Users\Rafael\Source\Repos\123456abcdef\x64\Debug\ExternalTriggerwithTeamcheck.exe
+  ExternalTriggerwithTeamcheck.vcxproj -> D:\Users\Rafael\Source\Repos\123456abcdef\x64\Debug\ExternalTriggerwithTeamcheck.pdb (Full PDB)

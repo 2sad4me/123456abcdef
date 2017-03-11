@@ -34,7 +34,7 @@ int main() {
 	//std::thread bunny(bhop);
 	while (true) {
 		glow();
-		trigger();
+		//trigger();
 		bhop();
 		noFlash();
 	}
@@ -44,7 +44,7 @@ int main() {
 
 
 
-void getClient() {
+void getClient() {//try hinzufügen, um das automatische Injecten zu ermöglichen
 	cout << "suche Fenster..." << endl;
 	do {
 		GameWindow = FindWindow(NULL, "Counter-Strike: Global Offensive");
